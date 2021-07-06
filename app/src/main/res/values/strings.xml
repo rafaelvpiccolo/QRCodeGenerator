@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QRCodeGenerator</string>
+    <string name="appTitle">QR Code Generator</string>
+    <string name="editTextValue">Type your QR-Code content here</string>
+    <string name="buttonText">GENERATE QR CODE</string>
+</resources>
